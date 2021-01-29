@@ -1,3 +1,5 @@
+[![Made with](https://img.shields.io/badge/Made%20with-Flutter-blue)](https://flutter.dev/)
+
 # Movie Finder Flutter Redux
 
 This is a simple movie finder app made with Flutter and implementing the flutter redux for state management.
