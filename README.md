@@ -1,6 +1,6 @@
 # Movie Finder Flutter Redux
 
-This s a simple movie finder app made with Flutter and implementing the flutter redux for state management.
+This is a simple movie finder app made with Flutter and implementing the flutter redux for state management.
 
 ## Application screens
 
