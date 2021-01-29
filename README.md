@@ -1,16 +1,13 @@
-# movie_app
+# Movie Finder Flutter Redux
 
-A new Flutter project.
+This s a simple movie finder app made with Flutter and implementing the flutter redux for state management.
 
-## Getting Started
+## Application screens
 
-This project is a starting point for a Flutter application.
+![Home screen](assets/github_presentation_images/home_page.JPEG?raw=true "Menu of the app")
 
-A few resources to get you started if this is your first Flutter project:
+![Movie details screen](assets/github_presentation_images/DescriptionMedia/details_page.JPEG?raw=true "Movie details page in app")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
+For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
