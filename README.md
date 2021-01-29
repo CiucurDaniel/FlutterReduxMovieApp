@@ -4,9 +4,9 @@ This s a simple movie finder app made with Flutter and implementing the flutter 
 
 ## Application screens
 
-![Home screen](assets/github_presentation_images/home_page.jpeg?raw=true "Menu of the app")
+<img src="(assets/github_presentation_images/home_page.jpeg" width="450" height="200">
 
-![Movie details screen](assets/github_presentation_images/DescriptionMedia/details_page.jpeg?raw=true "Movie details page in app")
+<img src="(assets/github_presentation_images/github_presentation_images/details_page.jpeg" width="450" height="200">
 
 For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
