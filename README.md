@@ -6,9 +6,9 @@ This is a simple movie finder app made with Flutter and implementing the flutter
 
 ## Application screens
 
-<img src="assets/github_presentation_images/home_page.jpeg" width="300" height="550">
+<img src="assets/github_presentation_images/home_page.jpeg" width="300" height="600">
 
-<img src="assets/github_presentation_images/details_page.jpeg" width="300" height="550">
+<img src="assets/github_presentation_images/details_page.jpeg" width="300" height="600">
 
 For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
